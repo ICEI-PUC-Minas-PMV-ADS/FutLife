@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# FUTLIFE
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`2º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto de um site que forneça o aluguel de quadras esportivas para a realização do esporte futebolístico e campeonatos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ananery Lopes Ribeiro
+* Camila Jardim Francisco
+* Diego Lúcio de Paula Rocha
+* Kamila Clemente de Assis
+* Rafael Mautone Costa
+* Tarcísio Junior Amaral de Almeida
 
 ## Orientador
 
-* Nome completo do professor 1
+* José Wilson da Costa
 
 ## Instruções de utilização
 
