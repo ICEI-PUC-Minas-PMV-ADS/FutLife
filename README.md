@@ -10,7 +10,6 @@ Projeto de um site que forneça o aluguel de quadras esportivas para a realizaç
 
 ## Integrantes
 
-* Ananery Lopes Ribeiro
 * Camila Jardim Francisco
 * Diego Lúcio de Paula Rocha
 * Kamila Clemente de Assis
