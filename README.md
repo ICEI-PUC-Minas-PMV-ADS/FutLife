@@ -32,7 +32,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/03-Metodologia.pdf"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.pdf"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.pdf"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Template Padrão da Aplicação.md"> Template Padrão da Aplicação</a></li>
+<li><a href="docs/06-Template Padrão da Aplicação.pdf"> Template Padrão da Aplicação</a></li>
 <li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
 <li><a href="docs/08-Plano de Testes de Software.pdf"> Plano de Testes de Software</a></li>
 <li><a href="docs/09-Registro de Testes de Software.pdf"> Registro de Testes de Software</a></li>
