@@ -22,7 +22,7 @@ Projeto de um site que forneça o aluguel de quadras esportivas para a realizaç
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para utilização da aplicação basta acessar a url:  https://icei-puc-minas-pmv-ads.github.io/FutLife/index.html
 
 # Documentação
 
@@ -33,7 +33,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/04-Projeto de Interface.pdf"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.pdf"> Arquitetura da Solução</a></li>
 <li><a href="docs/06-Template Padrão da Aplicação.pdf"> Template Padrão da Aplicação</a></li>
-<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
+<li><a href="docs/07-Programação de Funcionalidades.pdf"> Programação de Funcionalidades</a></li>
 <li><a href="docs/08-Plano de Testes de Software.pdf"> Plano de Testes de Software</a></li>
 <li><a href="docs/09-Registro de Testes de Software.pdf"> Registro de Testes de Software</a></li>
 <li><a href="docs/10-Plano de Testes de Usabilidade.pdf"> Plano de Testes de Usabilidade</a></li>
