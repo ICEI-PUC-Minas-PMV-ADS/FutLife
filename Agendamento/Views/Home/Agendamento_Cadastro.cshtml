@@ -1,0 +1,48 @@
+﻿@model Agendamento.Models.DadosAgendamento
+
+@{
+    var quadrasList = new[]
+    {
+        new SelectListItem(){ Value=null, Text="Quadra", Selected = true, Disabled = true},
+        new SelectListItem(){ Value="1", Text="Quadra 1"},
+        new SelectListItem(){ Value="2", Text="Quadra 2"},
+        new SelectListItem(){ Value="3", Text="Quadra 3"}
+    };
+
+    var numJogadoresList = new[]
+    {
+        new SelectListItem(){ Value=null, Text="Números de Jogadores", Selected = true, Disabled = true},
+        new SelectListItem(){ Value="8", Text="8"},
+        new SelectListItem(){ Value="10", Text="10"},
+        new SelectListItem(){ Value="12", Text="12"}
+    };
+
+}
+
+@using (Html.BeginForm("CriarReserva", "Home", FormMethod.Post))
+{
+    @Html.HiddenFor(x => x.Id)
+
+    <h1 class="mx-3 my-2">Reserva</h1>
+    <div class="col-12 d-flex">
+        @Html.TextBoxFor(x => x.Nome, new { @class = "form-control", placeholder = "Nome" })
+        @Html.TextBoxFor(x => x.Sobrenome, new { @class = "form-control", placeholder = "Sobrenome" })
+    </div>
+
+    <br/>
+
+    <div class="col-11">
+        @Html.DropDownList("Quadra", quadrasList, new { @class = "form-control" })
+    </div>
+
+    <div class="col-11">
+        @Html.TextBoxFor(x => x.Horario, new { @class = "form-control", placeholder = "Horários Disponíveis" })
+    </div>
+
+    <div class="col-11">
+        @Html.DropDownList("Jogadores", numJogadoresList, new { @class = "form-control" })
+    </div>
+    <button type="reset" class="btn btn-light btn-lg mt-5 w-100">Cancelar</button>
+    <button type="submit" class="btn btn-success btn-lg w-100">Reservar</button>
+}
+
