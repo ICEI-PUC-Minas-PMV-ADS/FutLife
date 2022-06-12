@@ -1,0 +1,61 @@
+﻿@using Agendamento.Models;
+
+@model IEnumerable<Usuario_Agendamento>
+@{ 
+    ViewBag.Title = "FutLife";
+    ViewBag.CssFile = "agenstyle.css";
+    Usuario_Agendamento agendamento = ViewBag.ReservaEspecifica != null ?
+        Model.FirstOrDefault(x => x.Id_Usuario_Agendamento == (int)ViewBag.ReservaEspecifica)
+        : new Usuario_Agendamento();
+    string incluirBolaDisplay = agendamento.Incluir_Bola ? "Sim" : "Não";
+    string incluirColeteDisplay = agendamento.Incluir_Colete ? "Sim" : "Não";
+}
+
+
+<!--Conteúdo Principal-->
+
+<main class="d-flex">
+
+    <!--Box Reserva-->
+
+    <div class="container mx-auto mb-3">
+        <div class="row text-white justify-content-center">
+
+            <div class="col-10 col-md-5 mx-3 my-5 pb-2 rounded" id="reserva">
+                @Html.Partial("Agendamento_Cadastro", agendamento)                
+            </div>
+
+            <!--Box Agendamento-->
+            <div class="col-10 col-md-5 mx-3 my-5 pb-2 rounded" id="agendamentos">
+                <form action="@Url.Action("AlterarCancelarReserva", "Agendamento")" method="post">
+
+                    <h1 class="mx-3 my-2">Meus Agendamentos</h1>
+
+                    @for (int i = 0; i < Model.Count(); i++)
+                    {
+                        Usuario_Agendamento item = Model.ElementAt(i);
+
+                        <div class="form-check">
+                            @Html.RadioButton("Id", item.Id_Usuario_Agendamento, htmlAttributes: new { @class = "form-check-input my-5" })
+
+                            <label class="form-check-label col-11 mx-2 my-4 py-2 rounded" for="@item.Id_Usuario_Agendamento">
+                                Quadra: @Html.DisplayFor(x => item.Id_Quadra)
+                                Horário: @Html.DisplayFor(x => item.Horario)
+                                <br />
+                                Jogadores: @Html.DisplayFor(x => item.Jogadores)
+                                <br />
+                                Incluir Bola: @incluirBolaDisplay
+                                Incluir Colete: @incluirColeteDisplay
+                            </label>
+                        </div>
+                    }
+
+                    <button type="submit" name="cancelarReserva" class="btn btn-light btn-lg mt-5 w-100">Cancelar Reserva</button>
+                    <button type="submit" name="alterarReserva" class="btn btn-success btn-lg w-100">Alterar</button>
+                </form>
+            </div>
+        </div>
+    </div><!--fim row-->
+    <!--</div>--><!--fim container-->
+
+</main>

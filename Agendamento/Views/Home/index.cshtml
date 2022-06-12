@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "FutLife";
+    ViewBag.CssFile = "homestyle.css";
+}
+
+<main class="d-flex">
+
+    <div class="container">
+        <div class="row">
+
+            <div id="carouselExampleIndicators" class="carousel slide col-11 col-sm-11 col-lg-8 col-md-11 d-flex my-5 mx-auto" data-bs-ride="carousel"
+                 style="position: relative; top: 3.5vw; height: 550px;">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner rounded" style="border: solid white 3px;">
+                    <div class="carousel-item active">
+                        <a href="#"> <img src="~/Content/img/carrossel01.png" height="550px" width="920px" class="d-flex rounded col-12" alt="..."></a>
+                    </div>
+                    <div class="carousel-item">
+                        <a href="#"> <img src="~/Content/img/carrossel02.png" height="550px" width="920px" class="d-flex rounded col-12" alt="..."></a>
+                    </div>
+                    <div class="carousel-item">
+                        <a href="#"> <img src="~/Content/img/carrossel03.png" height="550px" width="920px" class="d-flex rounded col-12" alt="..."></a>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+
+            </div>
+            <!-- CARROSSEL -->
+            <!-- Barra Lateral -->
+
+            <div class="col-md-5 my-5 mx-auto d-block" style="width: 355px; padding-top: 45px;">
+                <div class="quadras">
+                    <h4 class="text-white rounded text-center" style="background-color: rgba(0, 0, 0, 0.39); border:solid white 3px; margin-bottom: 3vh;">Quadras</h4>
+                </div>
+
+                <img class="rounded mb-3 my-1" src="~/Content/img/quadra1.jpg" width="333px" height="149" alt="" style="border:solid white 3px;">
+                <img class="rounded mb-3 my-1 " src="~/Content/img/quadra2.jpeg" width="333px" height="150" alt="" style="border:solid white 3px;">
+                <img class="rounded mb-3 my-1" src="~/Content/img/quadra3.jpg" width="333px" height="150" alt="" style="border:solid white 3px;">
+
+            </div>
+
+
+        </div>  <!--Row-->
+    </div> <!--Container-->
+</main>

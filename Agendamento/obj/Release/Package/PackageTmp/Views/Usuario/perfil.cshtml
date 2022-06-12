@@ -1,0 +1,46 @@
+﻿@model Agendamento.Models.Perfil
+@{
+    ViewBag.Title = "FutLife";
+    ViewBag.CssFile = "perfilstyle.css";
+}
+
+<!--Conteúdo Principal-->
+<main class="d-flex py-5 py-sm-4 py-lg-5">
+    <div class="container mx-auto">
+        <div class="row text-white dark-container rounded py-5 p-2 p-sm-4 justify-content-between gap-5 gap-lg-0">
+            <div class="col-12 col-lg-7 d-flex flex-column align-items-center align-items-lg-start">
+                <img src="~/Content/img/user.png" alt="User" class="col-12 img-fluid"
+                     style="height: 150px; width: 150px; border-radius: 100%">
+                <h4 class="mt-4 fz-small text-white">@Model.Usuario.Nome @Model.Usuario.Sobrenome</h4>
+                <p class="text-white pt-2 pb-3">
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis, modi? Repudiandae quibusdam, culpa
+                    temporibus autem, quo libero excepturi vero tempora at nobis iste sequi eligendi cumque, quas pariatur
+                    maiores explicabo.
+                </p>
+            </div>
+
+            <div class="col-12 col-lg-4">
+                <div class="mb-4">
+                    <h4 class="text-white">MINHAS EQUIPES</h4>
+                    <ul class="text-white">
+                        @foreach (var equipe in Model.Equipes)
+                        {
+                            <li>@equipe.Nome</li>
+                        }
+                    </ul>
+                    <button type="button" class="btn btn-light w-100" id="botao" onclick="location.href='@Url.Action("Campeonato", "Campeonato")'">Gerenciar equipes</button>
+                </div>
+                <div class="mt-4">
+                    <h4 class="text-white">MINHAS RESERVAS</h4>
+                    <ul class="text-white">
+                        @foreach (var agendamento in Model.Agendamentos)
+                        {
+                            <li>Quadra: @agendamento.Id_Quadra / Horário @agendamento.Horario</li>
+                        }
+                    </ul>
+                    <button type="button" class="btn btn-light w-100" id="botao" onclick="location.href='@Url.Action("Agendamento", "Agendamento")'">Gerenciar agendamentos</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

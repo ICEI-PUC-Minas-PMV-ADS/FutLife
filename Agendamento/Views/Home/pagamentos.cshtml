@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "FutLife";
+    ViewBag.CssFile = "pagamstyle.css";
+}
+
+<main class="page payment-page">
+    <section class="payment-form dark">
+        <div class="container">
+            <div class="block-heading">
+                <h2>Pagamento</h2>
+                <p>Confirme abaixo as informações referentes ao seu pedido e insira os dados para pagamento.</p>
+            </div>
+            <form>
+                <div class="products">
+                    <h3 class="title">Resumo do Pedido</h3>
+                    <div class="item">
+                        <span class="price">R$ 200</span>
+                        <p class="item-name">Produto 1</p>
+                        <p class="item-description">Lorem ipsum dolor sit amet</p>
+                    </div>
+                    <div class="item">
+                        <span class="price">R$ 120</span>
+                        <p class="item-name">Produto 2</p>
+                        <p class="item-description">Lorem ipsum dolor sit amet</p>
+                    </div>
+                    <div class="total">Total<span class="price">R$ 320</span></div>
+                </div>
+                <div class="card-details">
+                    <h3 class="title">Dados do Cartão de Crédito</h3>
+                    <div class="row">
+                        <div class="form-group col-sm-7">
+                            <label for="card-holder">Nome do titular</label>
+                            <input id="card-holder" type="text" class="form-control" style="margin-bottom: 20px;" aria-label="Card Holder" aria-describedby="basic-addon1">
+                        </div>
+                        <div class="form-group col-sm-5">
+                            <label for="">Validade</label>
+                            <div class="input-group expiration-date">
+                                <input type="text" class="form-control" style="margin-right: 10px;" placeholder="MM" aria-label="MM" aria-describedby="basic-addon1">
+                                <span class="date-separator">/</span>
+                                <input type="text" class="form-control" placeholder="YY" aria-label="YY" aria-describedby="basic-addon1">
+                            </div>
+                        </div>
+                        <div class="form-group col-sm-8">
+                            <label for="card-number">Número do Cartão</label>
+                            <input id="card-number" type="text" class="form-control" aria-label="Card Holder" aria-describedby="basic-addon1">
+                        </div>
+                        <div class="form-group col-sm-4">
+                            <label for="cvc">CVV</label>
+                            <input id="cvc" type="text" class="form-control" aria-label="Card Holder" aria-describedby="basic-addon1">
+                        </div>
+                        <div class="form-group col-sm-12">
+                            <button type="button" class="btn btn-warning btn-block" style="padding: 15px;">Efetuar Pagamento</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+</main>

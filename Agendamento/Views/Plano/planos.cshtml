@@ -1,0 +1,75 @@
+﻿@{
+    ViewBag.Title = "FutLife";
+    ViewBag.CssFile = "planostyle.css";
+
+    int? planoUsuario = (int?)ViewBag.PlanoUsuario;
+}
+<!--Conteúdo Principal-->
+
+<main class="d-flex">
+    <div class="container mx-auto">
+        <!--Container-->
+        <div class="row text-white justify-content-center">
+            <!--row-->
+
+            <div class="col-md-10 col-lg-3 mx-4 my-5 rounded" id="planos">
+                <img scr="~/Content/img/plano01.png" alt="" class="col-12 img-fluid" id="img-planos">
+                <h4>INCLUI</h4>
+                <ul>
+                    <li>1 JOGO NA SEMANA</li>
+                    <li>Coletes gratuitos</li>
+                    <li>1 BOLA</li>
+                </ul>
+                @if (planoUsuario != 1 || planoUsuario == null)
+                {
+                    <button type="button" class="btn btn-success w-100  my-4" id="botao" onclick="location.href='@Url.Action("Assinar", "Plano", new { idPlano = 1 })'">Assinar</button>
+                }
+                else
+                {
+                    <button type="button" class="btn btn-success w-100  my-4" id="botao" onclick="location.href='@Url.Action("RetirarAssinatura", "Plano")'">Retirar Assinatura</button>
+                }
+            </div>
+
+            <div class="col-md-10 col-lg-3 mx-4 my-5 pb-2 rounded" id="planos-vip">
+                <img scr="~/Content/img/plano03.png" alt="" class="col-12 img-fluid" id="img-planos">
+                <h4>INCLUI</h4>
+                <ul>
+                    <li>3 JOGOS NA SEMANA</li>
+                    <li>COLETES GRATUITOS</li>
+                    <li>2 BOLAS</li>
+                    <li>CHURRASQUEIRA 2xP MÊS</li>
+                </ul>
+                @if (planoUsuario != 2 || planoUsuario == null)
+                {
+                    <button type="button" class="btn btn-success w-100  my-4" id="botao" onclick="location.href='@Url.Action("Assinar", "Plano", new { idPlano = 2 })'">Assinar</button>
+                }
+                else
+                {
+                    <button type="button" class="btn btn-success w-100  my-4" id="botao" onclick="location.href='@Url.Action("RetirarAssinatura", "Plano")'">Retirar Assinatura</button>
+                }
+            </div>
+
+            <div class="col-md-10 col-lg-3 mx-4 my-5 rounded" id="planos">
+                <img scr="~/Content/img/plano02.png" alt="" class="col-12 img-fluid" id="img-planos">
+                <h4>INCLUI</h4>
+                <ul>
+                    <li>2 JOGOS NA SEMANA</li>
+                    <li>COLETES GRATUITOS</li>
+                    <li>1 BOLA</li>
+                    <li>CHURRASQUEIRA 1xP MÊS</li>
+                </ul>
+                @if (planoUsuario != 3 || planoUsuario == null)
+                {
+                    <button type="button" class="btn btn-success w-100  my-4" id="botao" onclick="location.href='@Url.Action("Assinar", "Plano", new { idPlano = 3 })'">Assinar</button>
+                }
+                else
+                {
+                    <button type="button" class="btn btn-success w-100  my-4" id="botao" onclick="location.href='@Url.Action("RetirarAssinatura", "Plano")'">Retirar Assinatura</button>
+                }
+            </div>
+
+
+        </div><!--fim row-->
+    </div><!--fim container-->
+
+</main>

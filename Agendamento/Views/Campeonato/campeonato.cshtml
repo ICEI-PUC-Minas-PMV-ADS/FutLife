@@ -1,0 +1,95 @@
+﻿@using Agendamento.Models
+
+@model IEnumerable<Usuario_Equipe>
+@{
+    ViewBag.Title = "FutLife";
+    ViewBag.CssFile = "campstyle.css";
+
+    int idLinhaTabelaEquipes = 0;
+
+    List<string> posicoes = new List<string>()
+    {
+        "Tecnico", "Goleiro", "Jogador 1", "Jogador 2", "Jogador 3", "Jogador 4", "Jogador 5"
+    };
+}
+
+<!--Conteúdo Principal-->
+
+<main class="d-flex">
+    <div class="container mx-auto">
+        <!--Container-->
+        <div class="row text-white justify-content-center">
+            <!--row-->
+
+            <h4>TABELA DE JOGOS</h4>
+            <div class="col-md -10 col-lg-8 mx-10 my-5 rounded" id="Campeonato">
+                <img src="~/Content/img/tabeladejogos.PNG" alt="" class="col-12 img-fluid" id="img-planos">
+            </div>
+
+            <div class="col-md-10 col-lg-4 mx-4 my-5 pb-2 rounded" id="planos-vip">
+                <form action="@Url.Action("CriarEquipe", "Campeonato")" method="post">
+                    <h4>Minha Equipe</h4>
+
+                    <div class="input-group input-group-sm mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="inputGroup-sizing-sm">Nome da Equipe</span>
+                        </div>
+                        <input type="text" name="NomeEquipe" class="form-control">
+                    </div>
+
+                    @for (int i = 0; i < posicoes.Count; i++)
+                    {
+                        string posicao = posicoes.ElementAt(i);
+
+                        <div class="input-group input-group-sm mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="inputGroup-sizing-sm">@posicao</span>
+                            </div>
+                            <input type="text" name="@posicao" class="form-control">
+                        </div>
+                    }
+
+                    <button type="submit" class="btn btn-success">Inscrever Minha Equipe</button>
+
+                </form>
+            </div>
+
+            <div class="col-md-10 col-lg-4 mx-4 my-5 rounded" id="planos">
+                <h4>Equipes Inscritas</h4>
+                <table class="table-dark">
+                    <thead>
+                        <tr>
+                            <th scope="col">Time</th>
+
+                            <th scope="col">  </th>
+                            <th scope="col">Nome</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            idLinhaTabelaEquipes++;
+                            <tr>
+                                <th scope="row">@idLinhaTabelaEquipes</th>
+                                <td>-></td>
+                                <td>@item.Nome</td>
+                                <td><button type="button" class="btn btn-light" onclick="location.href='@Url.Action("RemoverEquipe", "Campeonato", new { idEquipe = item.Id_Usuario_Equipe })'">Remover</button></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+
+
+            <div class="col-md-10 col-lg-3 mx-2 my 5 pb-6 rounded" id="planos-vip">
+
+                <h4>Informações Sobre o Campeonato</h4>
+
+
+            </div>
+
+        </div><!--fim row-->
+    </div><!--fim container-->
+
+</main>

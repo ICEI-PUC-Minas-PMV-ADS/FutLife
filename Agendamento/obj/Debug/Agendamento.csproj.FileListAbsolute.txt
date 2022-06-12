@@ -1,0 +1,245 @@
+C:\Projects\Agendamento\Agendamento\obj\Debug\Agendamento.csproj.CoreCompileInputs.cache
+C:\Projects\Agendamento\Agendamento\bin\Agendamento.dll.config
+C:\Projects\Agendamento\Agendamento\bin\Agendamento.dll
+C:\Projects\Agendamento\Agendamento\bin\Agendamento.pdb
+C:\Projects\Agendamento\Agendamento\bin\roslyn\csc.exe
+C:\Projects\Agendamento\Agendamento\bin\roslyn\csc.exe.config
+C:\Projects\Agendamento\Agendamento\bin\roslyn\csc.rsp
+C:\Projects\Agendamento\Agendamento\bin\roslyn\csi.exe
+C:\Projects\Agendamento\Agendamento\bin\roslyn\csi.exe.config
+C:\Projects\Agendamento\Agendamento\bin\roslyn\csi.rsp
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Agendamento\Agendamento\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.AppContext.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Console.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.IO.Compression.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Net.Http.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Net.Sockets.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.ValueTuple.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\Agendamento\Agendamento\bin\roslyn\vbc.exe
+C:\Projects\Agendamento\Agendamento\bin\roslyn\vbc.exe.config
+C:\Projects\Agendamento\Agendamento\bin\roslyn\vbc.rsp
+C:\Projects\Agendamento\Agendamento\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Agendamento\Agendamento\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Agendamento\Agendamento\bin\Antlr3.Runtime.dll
+C:\Projects\Agendamento\Agendamento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Agendamento\Agendamento\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Agendamento\Agendamento\bin\Newtonsoft.Json.dll
+C:\Projects\Agendamento\Agendamento\bin\System.Web.Helpers.dll
+C:\Projects\Agendamento\Agendamento\bin\System.Web.Mvc.dll
+C:\Projects\Agendamento\Agendamento\bin\System.Web.Optimization.dll
+C:\Projects\Agendamento\Agendamento\bin\System.Web.Razor.dll
+C:\Projects\Agendamento\Agendamento\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Agendamento\Agendamento\bin\System.Web.WebPages.dll
+C:\Projects\Agendamento\Agendamento\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Agendamento\Agendamento\bin\WebGrease.dll
+C:\Projects\Agendamento\Agendamento\bin\System.Web.Helpers.xml
+C:\Projects\Agendamento\Agendamento\bin\System.Web.Mvc.xml
+C:\Projects\Agendamento\Agendamento\bin\System.Web.Optimization.xml
+C:\Projects\Agendamento\Agendamento\bin\System.Web.Razor.xml
+C:\Projects\Agendamento\Agendamento\bin\System.Web.WebPages.xml
+C:\Projects\Agendamento\Agendamento\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Agendamento\Agendamento\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Agendamento\Agendamento\bin\Newtonsoft.Json.xml
+C:\Projects\Agendamento\Agendamento\bin\Antlr3.Runtime.pdb
+C:\Projects\Agendamento\Agendamento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Agendamento\Agendamento\obj\Debug\Agendamento.csproj.CopyComplete
+C:\Projects\Agendamento\Agendamento\obj\Debug\Agendamento.dll
+C:\Projects\Agendamento\Agendamento\obj\Debug\Agendamento.pdb
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\Agendamento.dll.config
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\Agendamento.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\Agendamento.pdb
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\csc.exe
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\csc.exe.config
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\csc.rsp
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\csi.exe
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\csi.exe.config
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\csi.rsp
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.AppContext.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Console.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.IO.Compression.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Net.Http.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.ValueTuple.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\vbc.exe
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\vbc.exe.config
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\vbc.rsp
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\VBCSCompiler.exe
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\Antlr3.Runtime.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\Newtonsoft.Json.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.Helpers.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.Mvc.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.Optimization.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.Razor.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.WebPages.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.WebPages.Razor.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\WebGrease.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.Helpers.xml
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.Mvc.xml
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.Optimization.xml
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.Razor.xml
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.WebPages.xml
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\System.Web.WebPages.Razor.xml
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\Newtonsoft.Json.xml
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\Antlr3.Runtime.pdb
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.csproj.AssemblyReference.cache
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.csproj.CoreCompileInputs.cache
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.csproj.CopyComplete
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.dll
+C:\Users\CamilaJardimFrancisc\Desktop\Agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.pdb
+C:\Projects\Agendamento\Agendamento\obj\Debug\Agendamento.csproj.AssemblyReference.cache
+C:\Projects\Agendamento\Agendamento\bin\EntityFramework.dll
+C:\Projects\Agendamento\Agendamento\bin\EntityFramework.SqlServer.dll
+C:\Projects\Agendamento\Agendamento\bin\EntityFramework.xml
+C:\Projects\Agendamento\Agendamento\bin\EntityFramework.SqlServer.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\Agendamento.dll.config
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\Agendamento.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\Agendamento.pdb
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\csc.exe
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\csc.exe.config
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\csc.rsp
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\csi.exe
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\csi.exe.config
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\csi.rsp
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.AppContext.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Console.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.IO.Compression.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Net.Http.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.ValueTuple.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\vbc.exe
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\vbc.exe.config
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\vbc.rsp
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\VBCSCompiler.exe
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\Antlr3.Runtime.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\EntityFramework.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\EntityFramework.SqlServer.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\Newtonsoft.Json.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.Helpers.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.Mvc.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.Optimization.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.Razor.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.WebPages.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.WebPages.Razor.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\WebGrease.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\EntityFramework.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\EntityFramework.SqlServer.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.Helpers.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.Mvc.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.Optimization.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.Razor.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.WebPages.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\System.Web.WebPages.Razor.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\Newtonsoft.Json.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\Antlr3.Runtime.pdb
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\obj\Debug\Agendamento.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\obj\Debug\Agendamento.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\obj\Debug\Agendamento.csproj.CopyComplete
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\obj\Debug\Agendamento.dll
+C:\Users\kamil\Desktop\Projeto 2 semestre\Aplicação\Agendamento\obj\Debug\Agendamento.pdb
