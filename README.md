@@ -22,7 +22,7 @@ Projeto de um site que forneça o aluguel de quadras esportivas para a realizaç
 
 ## Instruções de utilização
 
-Para utilização da aplicação basta acessar a url:  https://icei-puc-minas-pmv-ads.github.io/FutLife/index.html
+Para utilização da aplicação basta acessar a url:  https://agendamento20220612184256.azurewebsites.net/
 
 # Documentação
 
