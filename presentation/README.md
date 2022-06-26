@@ -1,3 +1,6 @@
 # Apresentação da Solução
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+No video abaixo, nós apresentamos a solução proposta.
+
+a href="https://www.loom.com/share/d3e6319869084bf0812ab1803e2d8b0f"> Video da solução</a>
+
