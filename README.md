@@ -39,7 +39,7 @@ Para utilização da aplicação basta acessar a url:  https://agendamento202206
 <li><a href="docs/10-Plano de Testes de Usabilidade.pdf"> Plano de Testes de Usabilidade</a></li>
 <li><a href="docs/11-Registro de Testes de Usabilidade.pdf"> Registro de Testes de Usabilidade</a></li>
 <li><a href="docs/Relatório de Testes de Software e Usabilidade.pdf"> Relatório de Testes de Software e Usabilidade</a></li>  
-<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+<li><a href="docs/12-Apresentação do Projeto.pdf"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
